@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Josef Havránek <9963200+07pepa@users.noreply.github.com, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-22 08:01+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n "
+"<= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+#: graphql_jwt/decorators.py:104
+msgid "Please enter valid credentials"
+msgstr "Prosím zadejte platné přihlašovací údaje"
+
+#: graphql_jwt/decorators.py:203
+msgid "Token is required"
+msgstr "Token je vyžadován"
+
+#: graphql_jwt/exceptions.py:15
+msgid "You do not have permission to perform this action"
+msgstr "Nemáte oprávnění k provedení této akce"
+
+#: graphql_jwt/exceptions.py:19
+msgid "Signature has expired"
+msgstr "Podpis vypršel"
+
+#: graphql_jwt/mixins.py:78
+msgid "origIat field is required"
+msgstr "origIat pole je vyžadováno"
+
+#: graphql_jwt/mixins.py:81
+msgid "Refresh has expired"
+msgstr "Obnovení vypršelo"
+
+#: graphql_jwt/utils.py:93
+msgid "Error decoding signature"
+msgstr "Chyba při dekódování podpisu"
+
+#: graphql_jwt/utils.py:95
+msgid "Invalid token"
+msgstr "Neplatný token"
+
+#: graphql_jwt/utils.py:111
+msgid "Invalid payload"
+msgstr "Neplatná data"
+
+#: graphql_jwt/utils.py:116
+msgid "User is disabled"
+msgstr "Uživatel je vypnutý"
